@@ -1,0 +1,31 @@
+#cont-1, #cont-2, #cont-3 {
+    width: 800px;
+    height:300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#cont-1{
+    background-color:rebeccapurple;
+}
+#cont-2{
+    background-color:coral;
+    justify-content: space-around;
+    margin:15px 0px;
+}
+#cont-3{
+    background-color:lightseagreen;
+}
+
+img {
+    height:200px;
+}
+
+h1 {
+    color:lightblue;
+    text-align: center;
+    font-family:monospace;
+    font-size:50px;
+}
